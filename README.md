@@ -1,5 +1,7 @@
 # goissue44732
 
+This issue was fixed in golang commit [`fee3cd4250`](https://github.com/golang/go/commit/fee3cd4250843a0a7c056fed3d3e6e1a423f3120).
+
 ```
 $ gotip version
 go version devel +2b50ab2aee Tue Mar 2 06:38:07 2021 +0000 darwin/amd64
